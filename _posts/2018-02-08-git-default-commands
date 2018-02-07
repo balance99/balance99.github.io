@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "git 기본 명령어 정리"
+date:   2018-02-08
+desc: "Quick test on writing code snippets in a blog post"
+keywords: "git,syntax,command"
+categories: [git]
+tags: [git,command]
+# icon: icon-html
+---
+
+* git add : git 관리대상으로 삼을 파일을 정확하게 지정. 프로젝트 진행을 위한 임시 파일들을 git의 관리 대상으로부터 배제할 수 있다.
