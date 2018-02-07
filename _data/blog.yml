@@ -18,6 +18,9 @@
 - name: Ruby
   href: /ruby/
 
+- name: Git
+  href: /git/
+  
 - name: Others
   href: /others/
 
