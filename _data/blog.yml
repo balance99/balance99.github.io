@@ -4,9 +4,9 @@
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
 - name: Java
-  href: /python/
+  href: /java/
 
-- name: HTML&CSS
+- name: HTML & CSS
   href: /html/
 
 - name: Database
@@ -16,10 +16,10 @@
   href: /python/
 
 - name: Ruby
-  href: /mac/
+  href: /ruby/
 
 - name: Others
-  href: /mac/
+  href: /others/
 
 - name: Life
   href: /life/
